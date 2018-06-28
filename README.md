@@ -23,7 +23,7 @@ This project provides solutions and implementation for popular algorithms and pr
 * Quick Sort
 * Selection Sort
 
-### RECURSION & LIST PROBLEMS
+### RECURSION & DATA STRUCTURES
 * Find Factorial
 * Find GCD - Greatest Common Divisor (Euclid's algorithm)
 * Check if Palindrome
